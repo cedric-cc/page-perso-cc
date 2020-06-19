@@ -1,0 +1,60 @@
+body
+{
+    text-align: justify;  
+    margin: 125px;
+}
+
+header 
+{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;  
+}
+
+header h1:first-letter 
+{
+   color: green;
+}
+
+header span
+{
+    color: green;
+}
+
+header img
+{
+    width : 350px; height : 350px;
+    border: none;
+    -moz-border-radius : 175px;
+    -webkit-border-radius : 175px;
+    border-radius : 175px;
+}
+
+span
+{
+    color: red;
+}
+
+li
+{
+    color: green;
+}
+
+div img
+{   
+    width: 250px;
+    height: 250px;
+    position: relative;
+    left:10%;
+    right: 50%;
+    justify-content: left;
+}
+
+footer
+{
+ font-size: 20px;
+ text-align: center;
+ background-color: gray;
+ margin-left: 0px;
+ margin-right: 0px;
+}
